@@ -1,0 +1,8 @@
+{
+  "name": "Context Flow",
+  "description": "A focus app built on context-blocking to break work into one-output, showable, countable, small chunks with done-state coaching.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
